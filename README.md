@@ -11,7 +11,7 @@ The Password Checker tool provides the following features:
 ### Purpose
 This tool was created to raise awareness about the importance of strong and secure passwords. It is my first program written in Python, and through this project, I aimed to deepen my understanding of the language. Initially, the tool was designed as a CLI program without a graphical user interface (GUI). However, to make it more accessible to less tech-savvy users, I developed a GUI version and provided a precompiled executable for easy use without requiring scripts.
 
-## How to Use
+## How to Run
 
 ### Option 1: Run from Source
 1. Download the following files and folder:
@@ -31,6 +31,9 @@ This tool was created to raise awareness about the importance of strong and secu
 ### Option 2: Use the Precompiled Version
 1. Download the precompiled executable from the `dist` folder.
 2. Run the `.exe` file (compatible with Windows OS).
+
+## How to Use
+Simply enter the password you want to check in the text box. Then, choose the level of computational power you want to simulate for brute-forcing your password, or check if the password is common enough to be part of one of the datasets.
 
 ## Notes
 - Your checked passwords are neither saved nor transmitted anywhere.
